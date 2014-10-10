@@ -47,6 +47,10 @@ This packing list is a decent starting point for a week long backpacking trip, s
 * rain jacket - thin outer layer
 * underwear
 
+## Water
+
+* Minimum 2 liters per day (for drinking and cooking)
+
 ## Toiletries
 
 * lip balm
